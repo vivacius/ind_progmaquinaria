@@ -1,9 +1,4 @@
 streamlit
 pandas
 numpy
-io
-BytesIO
-plotly.express
-plotly.graph_objects
-datetime 
-timedelta
+plotly
